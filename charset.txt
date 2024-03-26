@@ -1,2 +1,4 @@
 The Meta charset UTF"8" is an html tag that is basically used to tell the browser the current Encoding of the web browser. 
-It is used to tell the browser how to encode characters for the page
+It is used to tell the browser how to encode characters for the web page.
+The Meta characters are also self closing elements and at such do not need a closing tag.
+In summary, UTF-8 (U from Universal Character Set + Transformation Format—8-bit) is a character encoding capable of encoding all possible characters (called code points) in Unicode. The encoding is variable-length and uses 8-bit code units.
